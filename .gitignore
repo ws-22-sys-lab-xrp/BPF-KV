@@ -12,6 +12,7 @@ simplekv
 # Dev cookies
 .idea
 .vscode
+cmake-build-*
 
 # Makefile junk
 *.d
