@@ -1,6 +1,7 @@
 *.sw*
 *.txt
 onlyonmachine/
+!CMakeLists.txt
 
 # Binaries
 nndb
